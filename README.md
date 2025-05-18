@@ -34,3 +34,13 @@ The AI is implemented in `NeaChessAI.py` and includes:
 ├── NeaChessAI.py # AI engine & evaluation logic
 
 ├── Move_log.txt # Output move log
+
+
+## ▶️ How to Run
+
+1. Make sure you have Python 3 installed.
+2. Install dependencies:
+
+```bash
+pip install pygame
+
