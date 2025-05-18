@@ -40,7 +40,14 @@ The AI is implemented in `NeaChessAI.py` and includes:
 
 1. Make sure you have Python 3 installed.
 2. Install dependencies:
+  pip install pygame
+3. Run the main game:
+python NeaChessMain.py
+![image](https://github.com/user-attachments/assets/435ed4fd-ddeb-4b61-b6b6-abeef27d7e6f)
 
-```bash
-pip install pygame
+## Enjoy the game and try to beat my own creation 😄
+
+
+
+
 
