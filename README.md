@@ -24,9 +24,13 @@ The AI is implemented in `NeaChessAI.py` and includes:
 - Bonus/malus for checks, centralization, and piece safety
 
 ## 📁 Project Structure
-.
+
 ├── images/ # Piece images
+
 ├── NeaChessMain.py # Main GUI + game loop
+
 ├── NeaChessEngine.py # Move generation & game state
+
 ├── NeaChessAI.py # AI engine & evaluation logic
+
 ├── Move_log.txt # Output move log
